@@ -61,5 +61,5 @@ elif player=='p' and computer=='s':
 # In[22]:
 
 
-input("Press enter to exit ;)")
+input("Press enter to exit ;)") 
 
